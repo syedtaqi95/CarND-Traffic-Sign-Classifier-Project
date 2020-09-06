@@ -57,7 +57,7 @@ I visualised the training, validation and test datasets using a probability dist
 
 As the histogram shows, most classes have roughly equal probability distributions in each of the test sets. Some classes (such as n=20,21,22) have slightly higher probability densities in the validation test set compared to the training and test sets.
 
-I also plotted a random set of images from the images, example below:
+I also plotted a random set of images from the dataset, example below:
 
 ![example_images]
 
