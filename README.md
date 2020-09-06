@@ -14,6 +14,7 @@ Find my project on [Github](https://github.com/syedtaqi95/CarND-Traffic-Sign-Cla
 - Summarize the results with a written report
 
 [//]: # (Image References)
+
 [dataset_histogram]: ./writeup_images/dataset_histogram.png "dataset_histogram"
 [example_images]: ./writeup_images/example_images.png "example_images"
 [grayscale]: ./writeup_images/grayscale.png "grayscale"
